@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrthakur30
-- 👀 I’m interested in 🌝
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ... Instagram @mukul_xt
 
