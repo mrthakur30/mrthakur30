@@ -29,7 +29,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs,html,css,js,github,git,express,docker,java,nodejs,redux&perline=9"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs,html,css,js,github,git,express,docker,java,nodejs,redux&perline=9"  />
 </p>
 <br />
 
