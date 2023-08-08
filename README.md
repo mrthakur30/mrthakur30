@@ -8,6 +8,8 @@
                     
 
 <p align="left">I am passionate fullstack web developer currently on MERN stack. Currently learning Next.js and Typescript</p>
+<p align="left">All my projects are here https://mrthakur30.github.io/my-portfolio </p>
+
 <p align="left"> 
   <a href="https://github.com/mrthakur30?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mrthakur30?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
