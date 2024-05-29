@@ -8,7 +8,8 @@
                     
 
 <p align="left">I am passionate fullstack web developer currently on MERN stack. Currently learning Next.js and Typescript</p>
-<p align="left">All my projects are here https://portfolio-mu-seven-70.vercel.app </p>
+<p align="left">My best projects are in pinned section below</p>
+<p align="left">All my learning projects are here https://portfolio-mu-seven-70.vercel.app </p>
 
 <p align="left"> 
   <a href="https://github.com/mrthakur30?tab=repositories&sort=stargazers#gh-light-mode-only">
