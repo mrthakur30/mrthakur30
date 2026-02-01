@@ -11,7 +11,8 @@ Focused on clean APIs, scalable systems, and shipping real products.
 
 **Languages**
 - Java
-- TypeScript / JavaScript
+- TypeScript
+- Python
 
 **Backend**
 - Node.js (Express)
