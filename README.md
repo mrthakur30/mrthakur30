@@ -17,7 +17,7 @@ Focused on clean APIs, scalable systems, and shipping real products.
 - Node.js (Express)
 - Python (APIs, automation, AI integrations)
 - PostgreSQL / MongoDB
-- Firebase
+- Java (Spring Boot)
 
 **Frontend**
 - React
