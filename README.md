@@ -38,7 +38,7 @@ Focused on clean APIs, scalable systems, and shipping real products.
 - Built dashboards & internal tools
 - WordPress-like editor with SEO & publishing workflow
 - Kanban board with dynamic grouping & sorting
-- Workforce tracking API (check-in/out, audit-ready backend)
+- Workforce tracking feature
 
 ---
 
